@@ -1,0 +1,29 @@
+.daily-report {
+  max-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+.form-container {
+  margin-bottom: 20px;
+}
+
+input[type="text"],
+input[type="date"] {
+  margin-right: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
